@@ -1,5 +1,5 @@
 title: Schwebel Martin
-description: Much-Worse Jekyll theme for academic page and blog
+description: 
 sourcecode: "https://github.com/gchauras/much-worse-jekyll-theme"
 
 permalink: blog/:year/:month/:day/:title
@@ -8,8 +8,8 @@ exclude: ["Makefile", "README.md"]
 url: "[https://martinschwebel.github.io](https://martinschwebel.github.io)"     # the base hostname & protocol for your site
 baseurl: ""                   # the subpath of your site, e.g. /blog
 
-author:
-    name:
+author: schwebel martin 
+    name:Schwebel
     facebook:
     scholar:
 
