@@ -4,7 +4,7 @@ title: Stages et projets
 permalink: /blog/
 ---
 
-STAGE
+STAGES
 <ul class="listing">
 {% for post in site.posts %}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
@@ -18,3 +18,5 @@ STAGE
   </li>
 {% endfor %}
 </ul>
+
+PROJETS
