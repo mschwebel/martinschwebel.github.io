@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Blog
+title: Stages et projets
 permalink: /blog/
 ---
 
-Here is the much awaited blog.
-
+STAGE
 <ul class="listing">
 {% for post in site.posts %}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
