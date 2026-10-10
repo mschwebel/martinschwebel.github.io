@@ -10,9 +10,8 @@ html {
     overflow-y: scroll;
 }
 
-// Basic styling
 body {
-    font-family: $base-font-family;
+    font-family: 'Inter', Lato, sans-serif;
     font-size:   $base-font-size;
     line-height: $base-line-height;
     color:       $text-color;
